@@ -1,0 +1,25 @@
+.container {
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    background-color: #f1f1f1;
+    color: black;
+    cursor: pointer;
+    padding: 8px 16px;
+    width: 100px;
+    text-align: center;
+}
+
+.orgsTable {
+    border-collapse: collapse;
+}
+
+.orgsTable tr:nth-child(even){background-color: #f2f2f2;}
+
+.orgsTable td, .orgsTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}

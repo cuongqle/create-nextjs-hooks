@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18a0b601-03e7-48a1-8e41-cbb2f53fe203" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Terry/ntlm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Terry/ntlm/entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.component.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/app/app.routing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/img/logo-symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/_bootstrap-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/_core-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/_custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_animate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_avatars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_breadcrumb-menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_callout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_charts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_dropdown-menu-right.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_loading.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_mobile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_others.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_rtl.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_switches.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_temp.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/utilities/_background.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/utilities/_borders.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/core/utilities/_display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/uikits/_uikits.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/uikits/email/_email.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/angular-calendar/_day-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/angular-calendar/_month-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/angular-calendar/_week-view.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/angular-calendar/angular-calendar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/bs-datepicker/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/bs-datepicker/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/bs-datepicker/bs-datepicker.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/chart.js/chart.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/ng-select/ng-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/scss/vendors/toastr/toastr.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../refinish-transform/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/bin/ng" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/completion.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/destroy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/doc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/easter-egg.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/eject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/generate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/get.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/help.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/lint.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/new.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/serve.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/set.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/version.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/commands/xi18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/custom-typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/cli/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/cli/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/cli/lookup-command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/commands/unknown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/models/command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/models/installation-checker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/models/project.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/models/task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/ui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/ui/write-error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/utilities/get-option-args.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/utilities/get-package-base-name.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/ember-cli/lib/utilities/print-command.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/ast-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/ast-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/change.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/change.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/route-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/route-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/ast-tools/spec-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/base-href-webpack/base-href-webpack-plugin.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/base-href-webpack/base-href-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/base-href-webpack/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/cli/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/lib/config/schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/build-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/config/config.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/config/spec-schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/config/spec-schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/error.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/development.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/production.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/typescript.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-configs/xi18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-test-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/models/webpack-xi18n-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/glob-copy-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/insert-concat-assets-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/karma-context.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/karma-debug.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/karma-webpack-throw-error.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/karma.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/named-lazy-chunks-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/static-asset.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/suppress-entry-chunks-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/plugins/webpack.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/doc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/eject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/extract-i18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/git-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/link-cli.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/lint.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/npm-install.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/schematic-get-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/schematic-run.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/serve.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tasks/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/upgrade/version.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/INITIAL_COMMIT_MESSAGE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/app-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/check-package-manager.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/check-port.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/dynamic-path-parser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/find-up.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/is-directory.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/override-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/package-chunk-sort.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/require-project-module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/schematics.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/stats.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/utilities/validate-project-name.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli-babel/webpack-custom-typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/bin/ng" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/bin/ng" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/completion.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/destroy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/doc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/easter-egg.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/eject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/generate.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/get.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/help.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/lint.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/new.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/serve.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/set.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/version.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/commands/xi18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/custom-typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/cli.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/cli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/lookup-command.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/cli/lookup-command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/command.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/command.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/installation-checker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/installation-checker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/models/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/ui/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/ember-cli/lib/ui/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/ast-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/ast-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/change.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/change.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/node.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/route-utils.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/route-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/ast-tools/spec-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/base-href-webpack/base-href-webpack-plugin.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/base-href-webpack/base-href-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/base-href-webpack/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/cli/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/lib/config/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/lib/config/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/build-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/config/config.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/config/spec-schema.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/error.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/development.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/production.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/typescript.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-configs/xi18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-test-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/models/webpack-xi18n-config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../angular/angular-cli/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/glob-copy-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/insert-concat-assets-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/karma-webpack-throw-error.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/karma.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/named-lazy-chunks-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/static-asset.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/suppress-entry-chunks-webpack-plugin.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/plugins/webpack.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/build.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/doc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/e2e.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/eject.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/extract-i18n.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/git-init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/init.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/link-cli.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/lint.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/npm-install.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/schematic-get-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/schematic-run.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/serve.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tasks/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/upgrade/version.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/app-utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/check-package-manager.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/check-port.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/dynamic-path-parser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/find-up.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/is-directory.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/override-options.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/package-chunk-sort.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/require-project-module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/schematics.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/stats.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/validate-project-name.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/webpack-custom-typings.d.ts" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shared/utils/useFetch.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/organization-list.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/next/types/global.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/api/orgs/organizations.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hooks/org.hook.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/Home.module.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="114" column="1" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/Org.module.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pages</find>
+      <find>pages/_app.js</find>
+      <find>orgs</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/src/pages/index.js" />
+        <option value="$PROJECT_DIR$/src/pages/api/organizations.json" />
+        <option value="$PROJECT_DIR$/src/pages/index.tsx" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/domains/org.service.ts" />
+        <option value="$PROJECT_DIR$/src/hooks/org.hook.ts" />
+        <option value="$PROJECT_DIR$/src/pages/api/orgs/index.ts" />
+        <option value="$PROJECT_DIR$/styles/Home.module.css" />
+        <option value="$PROJECT_DIR$/styles/Org.module.css" />
+        <option value="$PROJECT_DIR$/src/pages/organization-list.tsx" />
+        <option value="$PROJECT_DIR$/src/shared/utils/useFetch.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1853" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611728214854" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/api/orgs" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18a0b601-03e7-48a1-8e41-cbb2f53fe203" name="Default Changelist" comment="" />
+      <created>1611717766447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611717766447</updated>
+      <workItem from="1611717768563" duration="7917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7917000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2498618" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3218391" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Scheme.REPL" side_tool="true" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Google Cloud Storage" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/server/init-server.js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/vercel.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/build-manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/server/pages/_app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/react-loadable-manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/globals.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-307" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next-env.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.next/static/chunks/pages/organization-list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32633">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/dist/client/link.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="19916" column="17" selection-start-line="19916" selection-start-column="17" selection-end-line="19916" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/domains/org.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/api/hello.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="32" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/api/orgs/index.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/api/orgs/organizations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next/types/global.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/Home.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="114" column="1" selection-start-line="114" selection-start-column="1" selection-end-line="114" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/Org.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hooks/org.hook.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/organization-list.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shared/utils/useFetch.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
