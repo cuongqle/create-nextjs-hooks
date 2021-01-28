@@ -14,7 +14,7 @@ export default function Home() {
         <h1 className={styles.title}>Dashboard</h1>
 
         <div className={styles.grid}>
-          <Link href="/organization-list">
+          <Link href="/organizations">
             <a className={styles.card}>
               <h3>Organizations &rarr;</h3>
               <p>Find an organization.</p>

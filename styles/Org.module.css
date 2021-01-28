@@ -23,3 +23,17 @@
     border: 1px solid #ddd;
     padding: 8px;
 }
+
+.orgDetails {
+    margin-top: 10px;
+}
+
+.orgDetails .section h4 {
+    display: inline-block;
+    margin: 5px;
+    width: 100px;
+}
+
+.orgDetails span {
+    color: red;
+}
