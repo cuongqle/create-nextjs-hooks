@@ -14,7 +14,7 @@ export default function Organizations() {
     return (
         <div className={styles.container}>
             <span className={styles.button} onClick={() => router.back()}>Back</span>
-            <table className={styles.orgsTable}>
+            <table className={styles.list}>
                 <thead>
                     <tr>
                         <th>Id</th>

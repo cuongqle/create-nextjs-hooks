@@ -13,27 +13,27 @@
     text-align: center;
 }
 
-.orgsTable {
+.list {
     border-collapse: collapse;
 }
 
-.orgsTable tr:nth-child(even){background-color: #f2f2f2;}
+.list tr:nth-child(even){background-color: #f2f2f2;}
 
-.orgsTable td, .orgsTable th {
+.list td, .list th {
     border: 1px solid #ddd;
     padding: 8px;
 }
 
-.orgDetails {
+.details {
     margin-top: 10px;
 }
 
-.orgDetails .section h4 {
+.details .section h4 {
     display: inline-block;
     margin: 5px;
     width: 100px;
 }
 
-.orgDetails span {
+.details span {
     color: red;
 }

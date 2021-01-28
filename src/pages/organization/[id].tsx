@@ -12,7 +12,7 @@ export default function Organization() {
     }
     return (<div className={styles.container}>
         <span className={styles.button} onClick={() => router.back()}>Back</span>
-        <div className={styles.orgDetails}>
+        <div className={styles.details}>
             <div className={styles.section}><h4>Id:</h4><span>{orgDetails.data?.id}</span></div>
             <div className={styles.section}><h4>Name:</h4><span>{orgDetails.data?.name}</span></div>
         </div>
