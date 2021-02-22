@@ -16,7 +16,7 @@ export default function MemoPage() {
             </div>
             <ParentComponent title={'Without React.memo()'} withoutMemo={true}/>
             <ParentComponent title={'With React.memo()'} withReactMemo={true}/>
-            <ParentComponent title={'With React.memo()'} withUseMemo={true}/>
+            <ParentComponent title={'With Use memo'} withUseMemo={true}/>
         </div>
     )
 }
