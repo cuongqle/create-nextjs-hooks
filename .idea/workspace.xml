@@ -302,7 +302,6 @@
       <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/stats.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/utilities/validate-project-name.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../angular/angular-cli/webpack-custom-typings.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -316,7 +315,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/organizations.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="286">
               <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="41" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
@@ -373,8 +372,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="182">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -391,7 +390,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles/Org.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="440">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
@@ -465,39 +464,6 @@
             <path>
               <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
               <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="orgs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="create-nextjs-hooks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="organization" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="create-nextjs-hooks" type="b2602c69:ProjectViewProjectNode" />
@@ -598,18 +564,18 @@
       <workItem from="1611729361975" duration="95000" />
       <workItem from="1611805810250" duration="6092000" />
       <workItem from="1611812245130" duration="149000" />
-      <workItem from="1611813169437" duration="21000" />
+      <workItem from="1611813169437" duration="92000" />
+      <workItem from="1613962407419" duration="130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15532000" />
+    <option name="totallyTimeSpent" value="15733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2642344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26755112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -624,9 +590,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49751243" visible="true" weight="0.32079414" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49695966" visible="true" weight="0.32079414" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50248754" side_tool="true" visible="true" weight="0.32079414" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030404" side_tool="true" visible="true" weight="0.32079414" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
@@ -754,7 +720,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/organizations.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="286">
           <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="41" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
@@ -804,6 +770,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/Org.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -811,17 +784,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/Org.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="182">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
