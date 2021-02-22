@@ -11,7 +11,14 @@ export default function Organization() {
         </div>
     }
     return (<div className={styles.container}>
-        <span className={styles.button} onClick={() => router.back()}>Back</span>
+        <div className="flex flex-col justify-center items-center">
+            <button
+                className="bg-indigo-200 hover:bg-indigo-300 py-2 px-10 mb-2 rounded-md self-start"
+                onClick={() => router.back()}
+            >
+                Back
+            </button>
+        </div>
         <div className={styles.details}>
             <div className={styles.section}><h4>Id:</h4><span>{orgDetails.data?.id}</span></div>
             <div className={styles.section}><h4>Name:</h4><span>{orgDetails.data?.name}</span></div>

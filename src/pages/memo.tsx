@@ -1,27 +1,22 @@
+import ParentComponent from "../components/memo/parent";
 import styles from "../../styles/Org.module.css";
-import {useOrganizations} from "../hooks/org.hook";
 import {useRouter} from "next/router";
-import Orgs from "../components/org/orgs";
 
-export default function Organizations() {
-    const orgs = useOrganizations();
-    if (orgs.loading) {
-        return <div className={styles.container}>
-            Loading
-        </div>
-    }
+export default function MemoPage() {
     const router = useRouter()
     return (
         <div className={styles.container}>
             <div className="flex flex-col justify-center items-center">
                 <button
-                    className="bg-indigo-200 hover:bg-indigo-300 py-2 px-10 mb-2 rounded-md self-start"
+                    className="bg-indigo-200 hover:bg-indigo-300 py-2 px-10 rounded-md"
                     onClick={() => router.back()}
                 >
                     Back
                 </button>
             </div>
-            <Orgs orgs={orgs.data}/>
+            <ParentComponent title={'Without React.memo()'} withoutMemo={true}/>
+            <ParentComponent title={'With React.memo()'} withReactMemo={true}/>
+            <ParentComponent title={'With React.memo()'} withUseMemo={true}/>
         </div>
     )
 }
