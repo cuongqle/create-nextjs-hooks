@@ -1,12 +1,8 @@
 module.exports = {
-  purge: ['./components/**/*.{js,ts,jsx,tsx}', './pages/**/*.{js,ts,jsx,tsx}'],
-  darkMode: 'media', // 'media' or 'class'
+  purge: ['./src/pages/**/*.tsx', './src/components/**/*.tsx'],
+  darkMode: false, // or 'media' or 'class'
   theme: {
-    extend: {
-      colors: {
-        'accent-1': '#333',
-      },
-    },
+    extend: {},
   },
   variants: {
     extend: {},
